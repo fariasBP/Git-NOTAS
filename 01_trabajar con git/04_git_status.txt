@@ -1,0 +1,7 @@
+/* GIT STATUS
+	te devuelve informacion de los adds (git add) que se hizo o no
+	SINTAXIS:
+		- git status
+*/
+
+git status

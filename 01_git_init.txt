@@ -1,0 +1,2 @@
+git init 
+	>>> inicializa un repositorio en la carpeta en donde se creo

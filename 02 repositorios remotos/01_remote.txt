@@ -1,0 +1,16 @@
+/*
+	Hasta ahora solo se usa git en un repositorio local que solo funcionaba en nuestra carpeta, esto se puede mejor usando repositorios remotos y asi trabajar con la comudidad.
+	Git remote sirve para establecer que el proyecto estara en un repositorio remoto como github, bitbucket entre otros.
+	TEMAS:
+		- git remote <opts> >>> te permite mostrar informacion de el repositorio remoto, por defecto te devuelve la rama del trabajo.
+			> -v >>> te devuelde los enlaces de fetch y push.
+		- git remote add origin <name> <url>
+		- git clone <url> >>> crea un copia de un repositorio local
+	SINTAXIS:
+*/
+
+// conectar tu repositorio local a un repositorio remoto
+	git remote add origin https://github.com/<EjemploUsuario>/<ejemplo_arhcivo>.git
+
+// clonar un repositorio
+	git clone https://github.com/<EjemploUsuario>/<ejemplo_arhcivo>.git

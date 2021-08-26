@@ -1,0 +1,14 @@
+/*
+	Te devuelve la histaria de los commits completa que se hicieron en el proyecto
+	SINTAXIS:
+		- git log
+		- git log -n <numero>
+		- git log --oneline
+		- git log --stat
+*/
+
+// mostrar la historia de archivos de un proyecto
+	git log
+
+// mostrar los 3 cantidad de commits
+	git log -n 3

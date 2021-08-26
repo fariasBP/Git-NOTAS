@@ -1,0 +1,7 @@
+/* GIT COMMIT
+	Si "git add" añade o guarda parcialmente los cambios, entonces "git commit" guarda totalmente con un comentario en donde se debe especifica los que se agrego, modifico y/o elimino del proyecto.
+	SINTAXIS:
+		- git commit -m "<comentario>"
+*/
+
+git commit -m "se incluyo el funcionamiento de login"

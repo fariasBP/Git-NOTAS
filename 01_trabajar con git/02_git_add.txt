@@ -1,0 +1,14 @@
+/* GIT ADD
+	Sirve para guardar parcialmente o añadir cambios que se hizo en el proyecto.
+	SINTAXIS
+		- git add <filename>
+		- git add .
+*/
+
+// guardar parcialmente los cambios que se hizo en un archivo
+	git add  mi_arhivo.js
+
+// guardar parcialmente todos los documento donde se producieron cambios
+	git add .
+
+

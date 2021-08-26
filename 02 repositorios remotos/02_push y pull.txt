@@ -1,0 +1,12 @@
+/*
+	TEMAS:
+		- git push origin <rama> >>> envia los cambios al repositorio remoto.
+			- rama >>> la rama en donde quieres enviar los cambios, normalmente se envia a la rama pricipal "master".
+		- git pull >>> actualiza tus archivos si hay cambios en el repositorio remoto, es recomendable hacer esto cada ves si es que se trabaja con personas en un mismo proyecto.
+*/
+
+// enviando cambios a la rema principal del repositorio remoto
+	git push origin master
+
+// actualizar los cambios del repositorio remoto
+	git pull
